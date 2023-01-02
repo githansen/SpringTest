@@ -1,0 +1,1 @@
+insert into menn (Name, Age) VALUES ('Bjarne', 25)
